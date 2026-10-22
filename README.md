@@ -14,11 +14,13 @@ Desenvolvo aplicações web, automações e ferramentas de criação 3D. Meus pr
 
 ## Aplicações web
 
+As capturas abaixo mostram funcionalidades em ambientes locais com **dados fictícios**.
+
 ### ⚽ Racha Fortalaka
 
 Inscrições, sorteio dos times, partidas e avaliações no futebol amador.
 
-[![⚽ Racha Fortalaka — tela pública de acesso](https://raw.githubusercontent.com/igorcastro1010/fortalaka-racha/master/assets/app-preview.png)](https://github.com/igorcastro1010/fortalaka-racha)
+[![⚽ Racha Fortalaka — placar demonstrativo](https://raw.githubusercontent.com/igorcastro1010/fortalaka-racha/master/assets/app-preview.png)](https://github.com/igorcastro1010/fortalaka-racha)
 
 [**Ver projeto →**](https://github.com/igorcastro1010/fortalaka-racha) · [Acessar aplicativo ↗](https://fortalaka-racha.vercel.app)
 
@@ -26,13 +28,15 @@ Inscrições, sorteio dos times, partidas e avaliações no futebol amador.
 
 Fila de carregamento, atualização em tempo real e histórico operacional.
 
-[![🚚 Controle de Placas — tela pública de acesso](https://raw.githubusercontent.com/igorcastro1010/controle-de-placas-carregamento/main/assets/app-preview.png)](https://github.com/igorcastro1010/controle-de-placas-carregamento)
+[![🚚 Controle de Placas — fila demonstrativa](https://raw.githubusercontent.com/igorcastro1010/controle-de-placas-carregamento/main/assets/app-preview.png)](https://github.com/igorcastro1010/controle-de-placas-carregamento)
 
 [**Ver projeto →**](https://github.com/igorcastro1010/controle-de-placas-carregamento) · [Acessar aplicativo ↗](https://controle-de-placas-carregamento.vercel.app)
 
 ### 🛍️ VestLink
 
 Catálogos digitais para lojas de roupas, com produtos e contato pelo WhatsApp.
+
+[![VestLink — catálogo demonstrativo](https://raw.githubusercontent.com/igorcastro1010/vestlink/main/assets/app-preview.png)](https://github.com/igorcastro1010/vestlink)
 
 [**Ver projeto →**](https://github.com/igorcastro1010/vestlink) · Demonstração em manutenção.
 
