@@ -20,7 +20,7 @@ As capturas abaixo mostram funcionalidades em ambientes locais com **dados fict�
 
 Inscrições, sorteio dos times, partidas e avaliações no futebol amador.
 
-[![⚽ Racha Fortalaka — placar demonstrativo](https://raw.githubusercontent.com/igorcastro1010/fortalaka-racha/master/assets/funcionalidades-demo.png)](https://github.com/igorcastro1010/fortalaka-racha)
+<p align="center"><a href="https://github.com/igorcastro1010/fortalaka-racha"><img src="https://raw.githubusercontent.com/igorcastro1010/fortalaka-racha/master/assets/placar-mobile-20261028.png" alt="Racha Fortalaka — partida demonstrativa finalizada em 2 a 1, com dados fictícios" width="360"></a></p>
 
 [**Ver projeto →**](https://github.com/igorcastro1010/fortalaka-racha) · [Acessar aplicativo ↗](https://fortalaka-racha.vercel.app)
 
